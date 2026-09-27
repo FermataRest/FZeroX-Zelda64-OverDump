@@ -37,7 +37,7 @@ This repository documents and preserves the surviving data for further research 
 ## Cartridge
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FermataRest/FZeroX-Zelda64-OverDump/main/images/f-zero-x-zelda-64-overdump-cart-front.jpg" width="800">
+  <img src="https://i.imgur.com/QwPOgHn.jpeg" width="800">
 </p>
 
 <p align="center">
@@ -51,27 +51,27 @@ This repository documents and preserves the surviving data for further research 
 ### Asset and Resource Data
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FermataRest/FZeroX-Zelda64-OverDump/main/images/_1.png" width="896">
+  <img src="https://i.imgur.com/qqFOu9Y.png" width="896">
 </p>
 
 The surviving Zelda 64 data contains maps, textures, text, interface graphics, and other development resources.
 
 ---
 
-### Castle Environment
+### Beta Hyrule Castle
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FermataRest/FZeroX-Zelda64-OverDump/main/images/_2.png" width="960">
+  <img src="https://i.imgur.com/VhCOxx6.png" width="960">
 </p>
 
 Recovered early Zelda 64 environment data showing a large castle structure and surrounding terrain.
 
 ---
 
-### Forest Environment
+### Beta Kokiri Forest
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FermataRest/FZeroX-Zelda64-OverDump/main/images/_3.png" width="960">
+  <img src="https://i.imgur.com/6eH9TDO.png" width="960">
 </p>
 
 Recovered early forest environment data, including tree stumps, terrain, paths, and surrounding forest geometry.
