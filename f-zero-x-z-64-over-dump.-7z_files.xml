@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="F-Zero X (Z64 OverDump).7z" source="original">
+    <mtime>1665109797</mtime>
+    <size>18468731</size>
+    <md5>5d8a7b639bd6a697f5907582a901ba09</md5>
+    <crc32>561bd48b</crc32>
+    <sha1>4a3a5c4afaa61533601416d3de447030585cbc02</sha1>
+    <format>7z</format>
+    <viruscheck>1665110195</viruscheck>
+    <filecount>2</filecount>
+  </file>
+  <file name="_1.png" source="original">
+    <mtime>1679048343</mtime>
+    <size>305546</size>
+    <md5>30c7ccbb797489f59a648721e307ec1e</md5>
+    <crc32>0cc5d1ec</crc32>
+    <sha1>53f61f95ff947337832e660e3b00693ec37fcba5</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="_1_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>_1.png</original>
+    <mtime>1679048427</mtime>
+    <size>8248</size>
+    <md5>46dc334437badfde1e3a9a50359be954</md5>
+    <crc32>a6abee50</crc32>
+    <sha1>e2b8726479bcf8ff6a95fe75d865f31839bab954</sha1>
+  </file>
+  <file name="_2.png" source="original">
+    <mtime>1679048359</mtime>
+    <size>1787005</size>
+    <md5>2a97057dc2cb1dd881ce4325aceb28b5</md5>
+    <crc32>a1339a31</crc32>
+    <sha1>8fd3d51c4f4421bedcca6cd6200eaa039f406f1a</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="_2_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>_2.png</original>
+    <mtime>1679048433</mtime>
+    <size>6771</size>
+    <md5>8c0dc36519e15b1622d54786fce17ce1</md5>
+    <crc32>21a20a74</crc32>
+    <sha1>43936ca01b6dbb4065f0501b2f29e5c0dda27a56</sha1>
+  </file>
+  <file name="_3.png" source="original">
+    <mtime>1679048375</mtime>
+    <size>1819745</size>
+    <md5>d6d01275bdf23a64293a9dcefd5cae16</md5>
+    <crc32>78f926e3</crc32>
+    <sha1>72df09c42e51565657b7f8e5fa6ac760eee4c460</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="_3_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>_3.png</original>
+    <mtime>1679048438</mtime>
+    <size>6286</size>
+    <md5>05d588d681752ba635d66e87c4f4af85</md5>
+    <crc32>595e2036</crc32>
+    <sha1>664099102f668a9da71124515adb51a1d4280e99</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1665109854</mtime>
+    <size>5686</size>
+    <md5>9e24e51c15eb596f0344c996ff3ed4a3</md5>
+    <crc32>1da9bf36</crc32>
+    <sha1>835173bf5fb1b12a66ccf3e5c1fe94807a2c00fa</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="f-zero-x-z-64-over-dump.-7z_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>33bc7f68e93dc710b873bd20fd636bc7</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="f-zero-x-z-64-over-dump.-7z_meta.sqlite" source="original">
+    <mtime>1679048388</mtime>
+    <size>28672</size>
+    <md5>b5ced7f521c256a0ea79eaf9702b8933</md5>
+    <crc32>ce338ae3</crc32>
+    <sha1>0ae1e05e7bf6057314043dc29259d413e255233e</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="f-zero-x-z-64-over-dump.-7z_meta.xml" source="original">
+    <mtime>1683655890</mtime>
+    <size>3463</size>
+    <md5>9f342dcc8ab4ad10db8ff0047533c7ae</md5>
+    <crc32>18041656</crc32>
+    <sha1>0fe3a3d5d6c6dfc8e5e749721d2aa97ff6e5e7a0</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="f-zero-x-zelda-64-overdump-cart-front.jpg" source="original">
+    <mtime>1665109815</mtime>
+    <size>515436</size>
+    <md5>b0f3b391c24e7a0cae2f1385dca75394</md5>
+    <crc32>3a77a22c</crc32>
+    <sha1>2e846f2f1ec85958a63fa70ae8aa43a6f7c4d844</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="f-zero-x-zelda-64-overdump-cart-front_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>f-zero-x-zelda-64-overdump-cart-front.jpg</original>
+    <mtime>1665110208</mtime>
+    <size>6258</size>
+    <md5>7e79915cecfb7e7a50f6ebbfcf9230ba</md5>
+    <crc32>545c866c</crc32>
+    <sha1>000cc5855fd35cb618c9f8112f94d5fdbbf92222</sha1>
+  </file>
+</files>
