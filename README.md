@@ -1,7 +1,7 @@
 # FZeroX-Zelda64-OverDump
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FermataRest/FZeroX-Zelda64-OverDump/main/images/f-zero-x-zelda-64-overdump-cart-front.jpg" width="800">
+  <img src="https://i.imgur.com/XXXXXXXX.jpg" width="800">
 </p>
 
 <p align="center">
