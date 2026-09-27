@@ -1,7 +1,7 @@
 # FZeroX-Zelda64-OverDump
 
 <p align="center">
-  <img src="./images/f-zero-x-zelda-64-overdump-cart-front.jpg" width="800">
+  <img src="https://raw.githubusercontent.com/FermataRest/FZeroX-Zelda64-OverDump/main/images/f-zero-x-zelda-64-overdump-cart-front.jpg" width="800">
 </p>
 
 <p align="center">
@@ -10,22 +10,11 @@
 
 ## Overview
 
-This repository documents a Nintendo 64 development cartridge containing a retail build of **F-Zero X**, with an overdump of a very early version of **The Legend of Zelda: Ocarina of Time**.
+This repository documents a Nintendo 64 development cartridge containing a retail build of **F-Zero X**, with an overdump of a very early version of **The Legend of Zelda: Ocarina of Time** from around the time of Nintendo's **SpaceWorld 1997** tradeshow.
 
-The surviving Zelda 64 data is from around the time of Nintendo's **SpaceWorld 1997** tradeshow.
+What makes this cartridge special is that it contains surviving data from this early Zelda 64 build. The data for **The Legend of Zelda: Ocarina of Time** includes maps, textures, text, and other development resources.
 
-What makes this cartridge unusual is that a substantial amount of the early Zelda 64 data remains intact. The recovered data includes:
-
-- Maps
-- Textures
-- Text
-- Other development resources
-
-Unfortunately, the cartridge was subsequently overwritten with the retail F-Zero X data. As a result, important portions of the original Zelda 64 build are no longer present, including:
-
-- Character models
-- Game code
-- Audio data
+Unfortunately, important portions of the original Zelda 64 data were overwritten by the later F-Zero X data. Character models, executable code, and audio are not present in the surviving data.
 
 The cartridge was acquired from a former Nintendo employee.
 
@@ -44,7 +33,7 @@ This repository documents and preserves the surviving data for further research 
 ## Cartridge
 
 <p align="center">
-  <img src="./images/f-zero-x-zelda-64-overdump-cart-front.jpg" width="800">
+  <img src="https://raw.githubusercontent.com/FermataRest/FZeroX-Zelda64-OverDump/main/images/f-zero-x-zelda-64-overdump-cart-front.jpg" width="800">
 </p>
 
 <p align="center">
@@ -58,17 +47,17 @@ This repository documents and preserves the surviving data for further research 
 ### Asset and Resource Data
 
 <p align="center">
-  <img src="./images/_1.png" width="896">
+  <img src="https://raw.githubusercontent.com/FermataRest/FZeroX-Zelda64-OverDump/main/images/_1.png" width="896">
 </p>
 
-The surviving Zelda 64 data contains a collection of textures, items, interface graphics, text resources, and other development assets.
+The surviving Zelda 64 data contains maps, textures, text, interface graphics, and other development resources.
 
 ---
 
 ### Castle Environment
 
 <p align="center">
-  <img src="./images/_2.png" width="960">
+  <img src="https://raw.githubusercontent.com/FermataRest/FZeroX-Zelda64-OverDump/main/images/_2.png" width="960">
 </p>
 
 Recovered early Zelda 64 environment data showing a large castle structure and surrounding terrain.
@@ -78,7 +67,7 @@ Recovered early Zelda 64 environment data showing a large castle structure and s
 ### Forest Environment
 
 <p align="center">
-  <img src="./images/_3.png" width="960">
+  <img src="https://raw.githubusercontent.com/FermataRest/FZeroX-Zelda64-OverDump/main/images/_3.png" width="960">
 </p>
 
 Recovered early forest environment data, including tree stumps, terrain, paths, and surrounding forest geometry.
@@ -94,7 +83,6 @@ System:             Nintendo - Nintendo 64
 File:               F-ZERO X [CFZE].z64
 BitSize:            256 Mbit
 Size (Bytes):       33554432
-
 CRC32:              68FE1CEC
 MD5:                95BF2153AAAD6FAFF3FB42FECD2F0200
 SHA1:               6AA870EC53602650638B50D7C89CAC026BE481F0
@@ -134,7 +122,7 @@ The surviving Zelda 64 data begins at:
 0x1000000
 ```
 
-The Zelda data is therefore embedded within a later F-Zero X ROM image rather than existing as an independently bootable Zelda 64 game image.
+The Zelda data is embedded within the later F-Zero X ROM image rather than existing as an independently bootable Zelda 64 game image.
 
 Because the later F-Zero X data overwrote portions of the cartridge, the surviving Zelda material represents only a partial snapshot of the original development build.
 
@@ -144,9 +132,11 @@ Because the later F-Zero X data overwrote portions of the cartridge, the survivi
 
 The surviving data is associated with a very early period in the development of **The Legend of Zelda: Ocarina of Time**, around the time of Nintendo's **SpaceWorld 1997** presentation.
 
-The recovered material provides evidence of development assets and environments that existed during this period. The presence of maps, textures, text, and other resources makes the overdump useful for studying how Zelda 64 was structured during its development.
+The recovered material includes maps, textures, text, and other resources from the early Zelda 64 data preserved on the cartridge.
 
-This should not be interpreted as a complete playable build. The original Zelda executable code, audio, and character models were overwritten by the later F-Zero X data.
+These resources provide material for studying the development and structure of **Zelda 64** during this period.
+
+This is **not a complete playable build** of *The Legend of Zelda: Ocarina of Time*. The character models, executable code, and audio associated with the original Zelda 64 data were overwritten by F-Zero X.
 
 ---
 
@@ -158,7 +148,7 @@ This should not be interpreted as a complete playable build. The original Zelda 
 | Textures | Surviving |
 | Text | Surviving |
 | Environment data | Surviving |
-| Item / interface resources | Surviving |
+| Interface / resource data | Surviving |
 | Character models | Overwritten |
 | Game code | Overwritten |
 | Audio | Overwritten |
@@ -171,9 +161,7 @@ The primary purpose of this repository is **historical preservation, research, a
 
 The recovered material should be treated as development-era data rather than a complete playable version of **The Legend of Zelda: Ocarina of Time**.
 
-The surviving resources include maps, textures, text, and other development material, while major portions of the original game were overwritten by F-Zero X.
-
-Further analysis may reveal additional relationships between the surviving resources and other known early Zelda 64 materials.
+The surviving resources provide a partial look at an early stage of Zelda 64 development. Further analysis may reveal additional relationships between the surviving resources and other known early Zelda 64 materials.
 
 ---
 
@@ -194,18 +182,18 @@ Debug
 Sample
 ```
 
-The archived item describes the cartridge as a development cartridge containing a retail build of F-Zero X and an overdump for a very early version of **The Legend of Zelda: Ocarina of Time** from around the time of Nintendo's SpaceWorld 1997 tradeshow.
+The item description identifies the material as a development cartridge containing a retail build of **F-Zero X** and an overdump for a very early version of **The Legend of Zelda: Ocarina of Time** from around the time of Nintendo's **SpaceWorld 1997** tradeshow.
 
-The item description also states that the Ocarina of Time data contains maps, textures, and text, while character models, code, and audio were overwritten by F-Zero X.
+According to the archived description, the surviving Ocarina of Time data contains maps, textures, and text, while character models, code, and audio were overwritten by F-Zero X.
 
-The archive record includes the following metadata:
+The Internet Archive record contains the following metadata:
 
 ```text
-Date referenced in item description: January 19, 2021
-Uploaded by: Forest of Illusion
-Upload date: October 7, 2022
-Item identifier: f-zero-x-z-64-over-dump.-7z
-Item size: 21.9 MB
+Item Size:       21.9 MB
+Identifier:      f-zero-x-z-64-over-dump.-7z
+Uploaded by:     Forest of Illusion
+Upload Date:     October 7, 2022
+Item Date:       January 19, 2021
 ```
 
 The item is included in:
@@ -213,7 +201,7 @@ The item is included in:
 - Forest of Illusion Prototype Collection
 - Software History Collection
 
-The Internet Archive record also provides the original reference images and the archived 7Z download.
+The Internet Archive record also preserves the original reference images and provides the archived 7Z file.
 
 ---
 
@@ -233,6 +221,22 @@ The `/images/` directory contains photographic documentation of the cartridge an
 ├── _2.png
 └── _3.png
 ```
+
+---
+
+## Related Research
+
+The surviving data from the F-Zero X overdump has also been used by other Zelda 64 preservation and reconstruction projects.
+
+One notable example is the **Spaceworld 1997 Ocarina of Time Recreation** project, which states that areas, dialogue, and most textures in its recreation originate from the F-Zero X overdump.
+
+[Spaceworld 1997 Ocarina of Time Recreation](https://github.com/z64proto/sw97)
+
+Additional Zelda 64 research and reverse-engineering resources can be found in projects such as:
+
+- [z64me](https://github.com/z64me/z64me)
+- [Zelda Reverse Engineering Team](https://github.com/zeldaret/)
+- [Z64Utils](https://github.com/zeldaret/Z64Utils)
 
 ---
 
