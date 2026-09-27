@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://i.imgur.com/jpD8Mug.jpeg" width="800">
+</p>
+
+<p align="center">
   <i>Nintendo 64 development cartridge containing a retail build of F-Zero X and an overwritten early Zelda 64 overdump.</i>
 </p>
 
