@@ -252,4 +252,4 @@ Additional Zelda 64 research and reverse-engineering resources can be found in p
 
 This repository is intended for historical research, preservation, and documentation of Nintendo 64 development material.
 
-**F-Zero X**, and **The Legend of Zelda** are trademarks and/or copyrighted works of **Nintendo**.
+**F-Zero**, and **The Legend of Zelda** are trademarks and/or copyrighted works of **Nintendo**.
