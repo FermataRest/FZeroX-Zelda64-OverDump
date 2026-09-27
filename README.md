@@ -1,7 +1,7 @@
 # FZeroX-Zelda64-OverDump
 
 <p align="center">
-  <img src="https://i.imgur.com/XXXXXXXX.jpg" width="800">
+  <img src="https://i.imgur.com/qqFOu9Y.png" width="800">
 </p>
 
 <p align="center">
