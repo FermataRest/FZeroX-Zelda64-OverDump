@@ -54,6 +54,10 @@ This repository documents and preserves the surviving data for further research 
   <img src="https://i.imgur.com/qqFOu9Y.png" width="896">
 </p>
 
+<p align="center">
+  <img src="https://i.imgur.com/jpD8Mug.jpeg" width="896">
+</p>
+
 The surviving Zelda 64 data contains maps, textures, text, interface graphics, and other development resources.
 
 ---
@@ -248,4 +252,4 @@ Additional Zelda 64 research and reverse-engineering resources can be found in p
 
 This repository is intended for historical research, preservation, and documentation of Nintendo 64 development material.
 
-**Nintendo**, **F-Zero X**, **The Legend of Zelda**, and **Ocarina of Time** are trademarks and/or copyrighted works of their respective owners.
+**Nintendo**, **F-Zero X**, **The Legend of Zelda**, are trademarks and/or copyrighted works of **Nintendo**.
