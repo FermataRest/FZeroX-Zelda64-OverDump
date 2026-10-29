@@ -248,6 +248,16 @@ Additional Zelda 64 research and reverse-engineering resources can be found in p
 
 ---
 
+## License
+
+Original code and documentation contributed to this repository are licensed under the **GNU General Public License, version 3 or (at your option) any later version** (`GPL-3.0-or-later`). See [LICENSE](LICENSE) for the full license text.
+
+Upstream software retains its existing license and author notices, including the extraction tools attributed to `z64.me`.
+
+Nintendo ROMs, overdump data, extracted game assets, and third-party images and reference materials are outside this GPL grant. Rights in those materials remain with their respective owners.
+
+---
+
 ## Disclaimer
 
 This repository is intended for historical research, preservation, and documentation of Nintendo 64 development material.
