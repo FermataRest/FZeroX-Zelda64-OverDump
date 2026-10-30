@@ -217,6 +217,8 @@ The Internet Archive record also preserves the original reference images and pro
 
 This repository contains documentation and reference material related to the surviving Zelda 64 overdump data.
 
+The [`maps/`](maps/) directory contains all **127 extracted map files**, named `z_overdump_map_1` through `z_overdump_map_127`. See [`readme.txt`](readme.txt) for extraction notes and known limitations.
+
 The `/images/` directory contains photographic documentation of the cartridge and screenshots of recovered Zelda 64 material.
 
 ### Images
